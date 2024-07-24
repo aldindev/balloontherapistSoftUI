@@ -13,7 +13,7 @@ const page1Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="../pages/works/little-mermaid.html">
+                  <a href="../pages/works/page1/little-mermaid.html">
                     <h5>Little Mermaid Theme</h5>
                   </a>
                   <p>
