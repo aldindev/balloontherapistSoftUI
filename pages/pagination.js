@@ -147,20 +147,18 @@ const page2Content = `
                 <div class="position-relative">
                   <a class="d-block blur-shadow-image">
                     <img
-                      src="../assets/img/balloontherapist/mem4.jpg"
+                      src="../pages/works/page2/baby-shower-9-(jungle themed)-Itasca/cover.jpg"
                       alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg"
                     />
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
-                    <h5>Temporary Theme</h5>
+                  <a href="../pages/works/page2/baby-shower-9.html">
+                    <h5>Baby Shower 9 (jungle themed) Itasca</h5>
                   </a>
                   <p>
-                    Siri's latest trick is offering a hands-free TV viewing
-                    experience, that will allow consumers to turn on or off
-                    their television, change inputs, fast forward.
+                    Roaring Fun and Whimsical Balloon Designs for a Jungle-Themed Baby Shower in Itasca, IL
                   </p>
                 </div>
               </div>
@@ -170,7 +168,7 @@ const page2Content = `
                 <div class="position-relative">
                   <a class="d-block blur-shadow-image">
                     <img
-                      src="../assets/img/balloontherapist/babyshower12.jpg"
+                      src="../pages/works/page2/balloon-bouquets/cover.jpg"
                       alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg"
                     />
@@ -178,12 +176,10 @@ const page2Content = `
                 </div>
                 <div class="card-body px-1 pt-3">
                   <a href="javascript:;">
-                    <h5>Baby Shower # 12</h5>
+                    <h5>Balloon Bouquets</h5>
                   </a>
                   <p>
-                    As Uber works through a huge amount of internal management
-                    turmoil, the company is also consolidating and rationalizing
-                    more of its international business.
+                    Elegant and Joyful Balloon Arrangements for Every Celebration.
                   </p>
                 </div>
               </div>
@@ -193,7 +189,7 @@ const page2Content = `
                 <div class="position-relative">
                   <a class="d-block blur-shadow-image">
                     <img
-                      src="../assets/img/balloontherapist/baptism.jpg"
+                      src="../pages/works/page2/butterfly-theme/cover.jpg"
                       alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg"
                     />
@@ -201,12 +197,10 @@ const page2Content = `
                 </div>
                 <div class="card-body px-1 pt-3">
                   <a href="javascript:;">
-                    <h5>Baptism</h5>
+                    <h5>Butterfly Theme</h5>
                   </a>
                   <p>
-                    Music is something that every person has his or her own
-                    specific opinion about. Different people have different
-                    taste, and various types of music.
+                    Delicate and Enchanting Balloon Art Inspired by Butterfly Magic.
                   </p>
                 </div>
               </div>
@@ -216,7 +210,7 @@ const page2Content = `
                 <div class="position-relative">
                   <a class="d-block blur-shadow-image">
                     <img
-                      src="../assets/img/balloontherapist/balloon-wall.jpg"
+                      src="../pages/works/page2/honeybee/cover.jpg"
                       alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg"
                     />
@@ -224,12 +218,10 @@ const page2Content = `
                 </div>
                 <div class="card-body px-1 pt-3">
                   <a href="javascript:;">
-                    <h5>Balloon Wall</h5>
+                    <h5>Honeybee</h5>
                   </a>
                   <p>
-                    Fast forward, rewind and more, without having to first
-                    invoke a specific skill, or even press a button on their
-                    remote.
+                    Buzzing with Charm: Delightful Balloon Designs Inspired by Honeybees
                   </p>
                 </div>
               </div>
@@ -239,7 +231,7 @@ const page2Content = `
                 <div class="position-relative">
                   <a class="d-block blur-shadow-image">
                     <img
-                      src="../assets/img/balloontherapist/Baby-Showers - Book-10.jpg"
+                      src="../pages/works/page2/sweet-16-and-18th-birthdays/cover.jpg"
                       alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg"
                     />
@@ -247,11 +239,10 @@ const page2Content = `
                 </div>
                 <div class="card-body px-1 pt-3">
                   <a href="javascript:;">
-                    <h5>Baby Showers Book 10</h5>
+                    <h5>Sweet 16 and 18th Birthdays</h5>
                   </a>
                   <p>
-                    Today, the company announced it will be combining its
-                    rides-on-demand business and UberEATS.
+                    Creating Unforgettable Milestone Celebrations with Stunning Balloon Art.
                   </p>
                 </div>
               </div>
@@ -261,7 +252,7 @@ const page2Content = `
                 <div class="position-relative">
                   <a class="d-block blur-shadow-image">
                     <img
-                      src="../assets/img/balloontherapist/moon-and-stars.jpg"
+                      src="../pages/works/page2/teddy-bear-theme/cover.jpg"
                       alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg"
                     />
@@ -269,11 +260,10 @@ const page2Content = `
                 </div>
                 <div class="card-body px-1 pt-3">
                   <a href="javascript:;">
-                    <h5>Moon And Stars</h5>
+                    <h5>Teddy Bear Theme</h5>
                   </a>
                   <p>
-                    Different people have different taste, and various types of
-                    music have many ways of leaving an impact on someone.
+                    Cuddly and Charming Balloon Creations for Teddy Bear-Themed Celebrations.
                   </p>
                 </div>
               </div>
