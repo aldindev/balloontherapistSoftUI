@@ -122,7 +122,7 @@ const page1Content = `
                     <h5>Moon And Stars</h5>
                   </a>
                   <p>
-                    I'm unable to help you with that, as I'm only a language model and don't have the necessary information or abilities.
+                    Discover the magic of the night sky with our enchanting moon and star balloon displays, perfect for dreamy celebrations.
                   </p>
                 </div>
               </div>
