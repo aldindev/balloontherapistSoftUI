@@ -34,7 +34,7 @@ const page1Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
+                  <a href="../pages/works/page1/baby-shower-12.html">
                     <h5>Baby Shower # 12</h5>
                   </a>
                   <p>
@@ -55,7 +55,7 @@ const page1Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
+                  <a href="../pages/works/page1/baptism.html">
                     <h5>Baptism</h5>
                   </a>
                   <p>
@@ -76,7 +76,7 @@ const page1Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
+                  <a href="../pages/works/page1/balloon-wall.html">
                     <h5>Balloon Wall</h5>
                   </a>
                   <p>
@@ -97,7 +97,7 @@ const page1Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
+                  <a href="../pages/works/page1/baby-showers-book-10.html">
                     <h5>Baby Showers Book 10</h5>
                   </a>
                   <p>
