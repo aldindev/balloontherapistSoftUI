@@ -118,7 +118,7 @@ const page1Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
+                  <a href="../pages/works/page1/moon-and-stars.html">
                     <h5>Moon And Stars</h5>
                   </a>
                   <p>
@@ -165,7 +165,7 @@ const page2Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
+                  <a href="../pages/works/page2/balloon-bouquets.html">
                     <h5>Balloon Bouquets</h5>
                   </a>
                   <p>
@@ -186,7 +186,7 @@ const page2Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
+                  <a href="../pages/works/page2/butterfly-theme.html">
                     <h5>Butterfly Theme</h5>
                   </a>
                   <p>
@@ -207,7 +207,7 @@ const page2Content = `
                   </a>
                 </div>
                 <div class="card-body px-1 pt-3">
-                  <a href="javascript:;">
+                  <a href="../pages/works/page2/honeybee.html">
                     <h5>Honeybee</h5>
                   </a>
                   <p>
