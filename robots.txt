@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Allow: /
+
+Sitemap: https://www.balloontherapist.com/sitemap.xml
